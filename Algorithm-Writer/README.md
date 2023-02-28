@@ -3,7 +3,7 @@
 This tool can be used to convert algorithm to code of $\LaTeX$.
 To use this, run `algo.py` using the command `python3 algo.py sample.algo` where sample.algo is the file containing algorithm.
 
-This tool writes the $\LaTeX$ tool according to crlscode3e
+This tool writes the $\LaTeX$ tool according to clrscode3e
 
 ### Example
 Here is an example algorithm
